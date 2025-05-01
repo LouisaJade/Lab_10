@@ -1,11 +1,13 @@
 ---
-title: "Lab_10: Distances and the Border Zone"
-subtitle: 'Ecosystem Science and Sustainability 523c'
-author:
+project:
+  title: "Lab_10: Distances and the Border Zone"
   name: Louisa Jade Beckett
   email: beckettl@colostate.edu
-format: html
-editor: visual
+  output-dir: docs
+  type: website
+format:
+  html:
+    self-contained: true
 ---
 
 
