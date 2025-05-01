@@ -5,6 +5,7 @@ author:
   name: Louisa Jade Beckett
   email: beckettl@colostate.edu
 format: html
+editor: visual
 ---
 
 
